@@ -24,11 +24,11 @@ author:
   avatar           : "profilepic.png"
   name             : "Angela Black"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "User Experience Strategist and Data Analyst specializing in helping small businesses unlock insights through data."
+  location         : "United States"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "contact@angiewebstudio.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
