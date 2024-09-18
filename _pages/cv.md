@@ -13,7 +13,7 @@ redirect_from:
 ======
   * FreeCodeCamp Responsibe Web Design (2022)
   * IBM Data Visualization and Dashboards with Excel and Cognos (2023)
-  * IBM Pythong Project for Data Science (2023)
+  * IBM Python Project for Data Science (2023)
   * IBM Python for Data Science AI & Development (2023)
   * Google UX Design (2024)
 
