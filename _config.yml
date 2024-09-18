@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Angie Web Studio"
+title                    : "angie web studio logo.png"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Angela Black"
 description              : &description "personal description"
 URL                      : "https://nglblack.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
