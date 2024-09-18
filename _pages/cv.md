@@ -9,11 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+* Certifications
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+  * FreeCodeCamp Responsibe Web Design (2022)
+  * IBM Data Visualization and Dashboards with Excel and Cognos (2023)
+  * IBM Pythong Project for Data Science (2023)
+  * IBM Python for Data Science AI & Development (2023)
+  * Google UX Design (2024)
 
 Work experience
 ======
