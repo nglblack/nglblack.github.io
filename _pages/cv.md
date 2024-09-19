@@ -46,5 +46,5 @@ Projects
  * Analyzed synthetic collections data to simulate real-world scenarios.
  * Generated data for account holders, payment statuses, and balances.
  * Provided insights to support data-driven decisions in collections strategies.
-<ul>https://github.com/nglblack/CollectionsDataanalysismock/bl
-ob/main/Mock_data_collections.ipynb</ul>
+
+[See project Here](https://github.com/nglblack/CollectionsDataanalysismock/blob/f18d5aec5a62036e53a5326c3b5baf4c6f98c21e/Mock_data_collections.ipynb)
