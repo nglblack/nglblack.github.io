@@ -19,48 +19,32 @@ redirect_from:
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2022-2024: Collections Representative
+  * Contact account holders on behalf of clients and negotiate payment in full
+  * Conduct pre-work before each call, using skip tracing to identify assets, professional licenses, and
+businesses.
+  * Provide account holders with options such as accessing lines of credit and explaining legal ramifications.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022: Bookkeeping Specialist (Contract)
+  * Manually input and organized financial data from bank records into Excel spreadsheets spanning multiple years.
+  * Analyzed financial data for accuracy and completeness to assist with tax preparation and compliance.
+  * Utilized advanced Excel functions to create organized and detailed financial summaries and reports.
+  * Employed strong attention to detail and analytical skills to ensure all data entries were accurate and up-to-date.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Microsoft Excel
+* Python for Data Science 
+  * Pandas
+  * matplotlib
+  * seaborn
+* Figma
 
-Publications
+Projects
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Data Analysis for collections
+ * Analyzed synthetic collections data to simulate real-world scenarios.
+ * Generated data for account holders, payment statuses, and balances.
+ * Provided insights to support data-driven decisions in collections strategies.
+<ul>https://github.com/nglblack/CollectionsDataanalysismock/bl
+ob/main/Mock_data_collections.ipynb</ul>
