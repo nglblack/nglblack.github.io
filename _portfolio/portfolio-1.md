@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Ticket Ease App"
+excerpt: "Case Study for Ticket Paying App<br/><img src='/images/ticketeasecover.png'>"
 collection: portfolio
 ---
 
