@@ -59,7 +59,7 @@ collection: portfolio
 2. **Digital Wireframes:** Focused on features like ticket search and court date scheduling.
 3. **Low-Fidelity Prototype:** User flow includes options to pay tickets or schedule court dates.
 
-![Wireframe Example](link-to-image.png)
+![Wireframe Example](\images\ticketappwireframe.jpg)
 
 ---
 
