@@ -75,8 +75,10 @@ After usability testing, several key adjustments were made based on user feedbac
 
 The final mockup incorporates all usability feedback and ensures a smooth, intuitive experience for users managing their traffic citations. You can view the high-fidelity mockup [here](https://www.figma.com/proto/0V8SdGkJP7hdwHhMcZfKcA/Ticket-App?node-id=92-19&t=DEfsFBjdzK5VHjFv-1).
 
+![Mockup Example](\images\hifi.png)
+
 ![Mockup Example](\images\highfimock.png)
-![Mockup Example](\images\finishhifi.png)
+
 ---
 
 ## Accessibility Features
