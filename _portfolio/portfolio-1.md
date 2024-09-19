@@ -189,11 +189,3 @@ Ticket Ease significantly enhanced user experience by simplifying traffic ticket
 
 ---
 
-## Let’s Connect!
-
-I currently do not have my full portfolio online yet, but you can find me on other social platforms:
-
-- **Email:** contact@angiewebstudio.com
-- **Website:** [Angie Web Studio](http://www.angiewebstudio.com)
-- **LinkedIn:** [Angela B](https://www.linkedin.com/in/angela-b-960220106)
-
