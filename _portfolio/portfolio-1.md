@@ -4,187 +4,109 @@ excerpt: "Case Study for Ticket Paying App<br/><img src='/images/ticketeasecover
 collection: portfolio
 ---
 
-# Case Study for Ticket Ease App
+### Case Study for Ticket Ease App
 ![hero image](\images\ticketeasecover.png)
 
 ---
 
-### **The Product**
+## Product Overview
 
-**Ticket Ease** streamlines traffic citation management for LA County residents. Features include:
+**Ticket Ease** simplifies traffic citation management for LA County residents, offering features like ticket search, court appearances, and payment plans. Designed with accessibility in mind, it makes resolving traffic tickets stress-free.
 
-- Easy ticket search
-- Court appearances
-- Payment plans
+**Project Duration:** 1 month
 
-Designed for accessibility, Ticket Ease makes resolving traffic tickets convenient and stress-free.
+**Goal:** Create a user-friendly app to help users easily find, dispute, and pay traffic tickets while offering remote court appearances, payment plans, and community service options.
 
----
-
-## Project Overview
-
-### **Project Duration:**
-About 1 Month
+**Problem:** Users face difficulty managing tickets, accessing court schedules, and finding affordable payment options, leading to escalating penalties and stress.
 
 ---
 
-### **The Problem:**
-Debtors often struggle to find and manage their traffic tickets, leading to escalating penalties and fees. Inaccessible court appearances and lack of affordable payment options further exacerbate their financial burdens.
+## My Role & Responsibilities
+
+**Role:** Project Lead – Overseeing UX design, user research, and development to ensure the app meets user needs.
+
+**Responsibilities:**
+- User research (interviews, surveys, usability testing)
+- Wireframing, prototyping, and iterative design
+- Leading development to ensure a seamless solution
 
 ---
 
-### **The Goal:**
-To provide a user-friendly app that simplifies the process of finding, disputing, and paying traffic tickets. Features include:
+## Key Insights from User Research
 
-- Remote court appearances
-- Payment plans
-- Community service options
-
-This helps reduce financial burdens and enhances accessibility for all users.
-
----
-
-## My Role
-
-As the project lead, I was responsible for:
-
-- Overseeing the UX design, research, and overall development of Ticket Ease
-- Conducting user research to understand pain points
-- Designing intuitive interfaces
-- Ensuring the app meets the diverse needs of its users
-
----
-
-## Responsibilities:
-
-- User research
-- Wireframing and prototyping
-- Overseeing the overall development
-- Ensuring the app meets user needs
-
----
-
-## Understanding the User
-
-### **User Research:**
-I conducted interviews, surveys, and usability testing to gather insights on challenges users face with traffic citations. These revealed several key pain points:
-
-1. Difficulty finding and accessing detailed information about traffic tickets.
-2. Limited options for court scheduling, leading to missed appearances.
-3. Lack of clear and affordable payment plans.
+1. **Difficulty Accessing Ticket Information:** Users struggle to find details about traffic tickets.
+2. **Limited Court Scheduling Options:** Leads to missed appearances and legal issues.
+3. **Lack of Affordable Payment Plans:** Many users cannot avoid penalties and license suspensions.
 
 ---
 
 ## Persona: David Hernandez
 
-### **Problem Statement:**
-As a college student, David wants clear guidance on setting up a payment plan for his traffic tickets to get his driver's license released.
+**Problem Statement:** As a college student, David needs clear guidance to set up a payment plan and release his suspended driver’s license.
 
-### **Goals:**
-- Find affordable ways to resolve his traffic ticket.
-- Access clear guidance on setting up a compliant payment plan.
-- Manage the entire process through a user-friendly mobile app.
-
-### **Frustrations:**
-- Limited information on solutions for payments.
-- Anxiety about the financial impact of unresolved tickets.
-- Suspended driver’s license.
+**Goals:**
+- Find affordable solutions for traffic tickets.
+- Get clear guidance on payment plans.
+- Manage tickets through a mobile app.
 
 ---
 
-## User Journey Map
+## Design Process Overview
 
-The goal was to map David Hernandez's journey to identify pain points in setting up a compliant payment plan for his driver's license. The focus was on ensuring clarity, ease of use, and accessibility at each step.
+### **Wireframes & Prototyping**
 
----
+1. **Paper Wireframes:** Multiple iterations to achieve a design that meets user needs.
+2. **Digital Wireframes:** Transitioned to digital wireframes with features like ticket search and court date scheduling.
+3. **Low-Fidelity Prototype:** Guided user flow with options to pay tickets or schedule court dates.
 
-## Starting the Design
-
-### **Paper Wireframes**
-
-Creating the wireframe for Ticket Ease involved several iterations. Here's a refined version:
-
-![Paper Wireframe](link-to-image.png)
-
----
-
-### **Digital Wireframes**
-
-Transitioning from paper to digital wireframes sharpened the vision. Key features include:
-
-- Easy ticket search
-- Option to schedule court dates
-- Payment plan management
-
-![Digital Wireframe](link-to-image.png)
-
----
-
-### **Low-Fidelity Prototype**
-
-The user flow starts at the "Let's Go" button, followed by:
-
-1. Ticket search
-2. Selecting and viewing tickets
-3. Choosing payment or court date scheduling
+![Wireframe Example](link-to-image.png)
 
 ---
 
 ## Usability Study Findings
 
-### Round 1 Findings:
-1. Added billing section to payment page.
-2. Added a success page after payment.
+**Round 1:**
+- Added billing section to payment page.
+- Added success page after payment.
 
-### Round 2 Findings:
-1. Option to cancel court date.
-2. Added warning page for non-compliant payment.
-3. Option to pay multiple tickets simultaneously.
+**Round 2:**
+- Added option to cancel court dates.
+- Created warning for non-compliant payment plans.
+- Enabled payment of multiple tickets at once.
 
 ---
 
 ## Refining the Design
 
-### **Mockups**
+### **Mockups & High-Fidelity Prototype**
 
-After usability studies, several changes were made, including:
-
-- Adding options to pay for multiple tickets.
-- Including billing information for payments.
+Changes after usability studies:
+- Multiple ticket payment options.
+- Added billing information for payments.
 
 ![Mockups Before and After](link-to-image.png)
 
----
-
-## High-Fidelity Prototype
-
-You can view my high-fidelity mobile app prototype here:
-[View Prototype](https://www.figma.com/proto/0V8SdGkJP7hdwHhMcZfKcA/Ticket-App)
+View the high-fidelity prototype [here](https://www.figma.com/proto/0V8SdGkJP7hdwHhMcZfKcA/Ticket-App).
 
 ---
 
-## Accessibility Considerations
+## Accessibility Features
 
-1. **Large Touch Targets:** Buttons and interactive elements are designed with larger touch targets to aid users with motor impairments.
-2. **Color Contrast:** Ensures high color contrast between text and backgrounds for better readability.
-3. **Simple and Clear Language:** The app uses accessible language for users with cognitive disabilities.
+1. **Large Touch Targets:** For users with motor impairments.
+2. **High Color Contrast:** Improves readability for users with visual impairments.
+3. **Clear Language:** Simple instructions for users with cognitive disabilities.
 
 ---
 
-## Takeaways and Next Steps
+## Takeaways & Next Steps
 
-### **Impact:**
-Ticket Ease significantly enhanced user experience by simplifying traffic ticket management. A study participant noted, "The app's straightforward navigation makes it easy to find, pay, and schedule court dates."
+**Impact:** Ticket Ease improved user experience by simplifying ticket management. One participant said, "The app’s straightforward navigation makes it easy to find, pay, and schedule court dates."
 
-### **What I Learned:**
-- The importance of iterative design and user feedback.
+**Lessons Learned:**
+- The importance of iterative design and testing.
 - Balancing functionality with accessibility.
-- The value of prototyping and testing.
 
-### **Next Steps:**
-1. Conduct thorough usability testing.
-2. Enhance accessibility features.
-3. Add more detailed traffic ticket information and guides.
-
----
-
+**Next Steps:**
+- Further usability testing.
+- Enhance accessibility (e.g., voice commands).
+- Add more detailed ticket information and guides.
