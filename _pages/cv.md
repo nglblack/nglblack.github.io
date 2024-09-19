@@ -38,7 +38,14 @@ Skills
   * Pandas
   * matplotlib
   * seaborn
+  * Jupyter Notebook
+  * Anaconda
 * Figma
+* Photoshop
+* Html & Css
+* JavaScript
+* Django
+* SQL
 
 Projects
 ======
@@ -47,4 +54,4 @@ Projects
  * Generated data for account holders, payment statuses, and balances.
  * Provided insights to support data-driven decisions in collections strategies.
 
-[See project Here](https://github.com/nglblack/CollectionsDataanalysismock/blob/f18d5aec5a62036e53a5326c3b5baf4c6f98c21e/Mock_data_collections.ipynb)
+[See Project Here](https://github.com/nglblack/CollectionsDataanalysismock/blob/f18d5aec5a62036e53a5326c3b5baf4c6f98c21e/Mock_data_collections.ipynb)
