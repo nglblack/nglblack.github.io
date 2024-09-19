@@ -57,7 +57,7 @@ The low-fidelity prototype mapped the basic user flow, allowing users to:
 - View ticket details
 - Choose between paying the fine or scheduling a court date
 
-![Wireframe Example](\images\wireframe.png)
+![Wireframe Example](\images\wireframes.png)
 
 ---
 
