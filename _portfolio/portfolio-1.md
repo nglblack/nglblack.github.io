@@ -5,8 +5,7 @@ collection: portfolio
 ---
 
 # Case Study for Ticket Ease App
-
-## By: Angela B
+![hero image](ticketeasecover.png)
 
 ---
 
