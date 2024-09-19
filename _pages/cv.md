@@ -19,7 +19,7 @@ redirect_from:
 
 Work experience
 ======
-* 2022-2024: Collections Representative
+* 2018-2024: Collections Representative
   * Contact account holders on behalf of clients and negotiate payment in full
   * Conduct pre-work before each call, using skip tracing to identify assets, professional licenses, and
 businesses.
