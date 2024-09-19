@@ -9,104 +9,100 @@ collection: portfolio
 
 ---
 
-## Product Overview
+## Overview
 
-**Ticket Ease** is a high-fidelity mockup for an app that simplifies traffic citation management for LA County residents. It features ticket search, court appearances, and payment plans, all designed with accessibility in mind to make resolving traffic tickets stress-free.
+**Ticket Ease** is a high-fidelity mockup for an app designed to simplify paying traffic citations. The app helps users manage tickets by providing features for ticket search, court appearances, and payment plans—all with a focus on accessibility and ease of use.
 
-**Project Duration:** 1 month
-
-**Goal:** Create a mockup for a user-friendly app to help users find, dispute, and pay traffic tickets. The mockup includes remote court appearances, payment plans, and community service options.
-
-**Problem:** Users struggle with managing tickets, accessing court schedules, and finding affordable payment options, leading to financial burdens and stress.
+### **Purpose**  
+This mockup was created to address common challenges people face when trying to pay or dispute traffic citations, such as finding their tickets, scheduling court dates, and setting up payment plans.
 
 ---
 
-## My Role & Responsibilities
+## Project Details
 
-**Role:** UX Designer – Responsible for designing the high-fidelity mockup, conducting user research, and ensuring the design meets user needs.
-
-**Responsibilities:**
-- User research (interviews, surveys, usability testing)
-- Wireframing and prototyping
-- Creating a high-fidelity mockup to visualize the app concept
+**Project Duration:** 1 month  
+**My Role:** UX Designer  
+**Main Goal:** Design a mockup that simplifies the traffic ticket resolution process through a user-friendly interface and features like remote court appearances and flexible payment plans.
 
 ---
 
-## Key Insights from User Research
+## Problem Statement
 
-1. **Difficulty Accessing Ticket Information:** Users struggle to find details about traffic tickets.
-2. **Limited Court Scheduling Options:** Leads to missed appearances and legal issues.
-3. **Lack of Affordable Payment Plans:** Many users cannot avoid penalties and license suspensions.
+Many individuals, especially those with suspended licenses or financial struggles, have difficulty navigating the systems for managing traffic citations. Common issues include:
 
----
+1. **Finding tickets online**
+2. **Scheduling court appearances**
+3. **Setting up affordable payment plans**
 
-## Persona: David Hernandez
-
-**Problem Statement:** As a college student, David needs clear guidance to set up a payment plan and release his suspended driver’s license.
-
-**Goals:**
-- Find affordable solutions for traffic tickets.
-- Get clear guidance on payment plans.
-- Manage tickets through a mobile app.
+These hurdles often result in increased penalties, missed court dates, and ongoing legal complications.
 
 ---
 
-## Design Process Overview
+## The Design Process
 
-### **Wireframes & Prototyping**
+### 1. **User Research**
+To understand users' pain points, I conducted interviews and surveys, focusing on how people handle traffic citations. Key findings revealed the need for clearer guidance, more payment options, and a streamlined process for court scheduling.
 
-1. **Paper Wireframes:** Several iterations to meet user needs.
-2. **Digital Wireframes:** Focused on features like ticket search and court date scheduling.
-3. **Low-Fidelity Prototype:** User flow includes options to pay tickets or schedule court dates.
+### 2. **Persona Development**
+I created personas to represent typical users. For example, **David Hernandez**, a college student with a suspended license, needs affordable solutions and clear guidance to resolve his tickets and get his license reinstated.
+
+### 3. **Wireframing & Prototyping**
+
+#### **Paper Wireframes**
+Initial paper sketches helped outline basic user flows and identify key interactions, such as searching for a ticket or scheduling a court date.
+
+#### **Digital Wireframes**
+I transitioned to digital wireframes to refine the app's layout and features. The focus was on making the ticket search simple and providing clear options for users to pay or schedule a court date.
 
 ![Wireframe Example](\images\ticketappwireframe.jpg)
 
----
-
-## Usability Study Findings
-
-**Round 1:**
-- Added billing section to payment page.
-- Added success page after payment.
-
-**Round 2:**
-- Option to cancel court dates.
-- Warning for non-compliant payment plans.
-- Enabled payment of multiple tickets at once.
+#### **Low-Fidelity Prototype**
+The low-fidelity prototype mapped the basic user flow, allowing users to:
+- Search for their ticket
+- View ticket details
+- Choose between paying the fine or scheduling a court date
 
 ---
 
-## Refining the Design
+## Usability Testing & Refinement
 
-### **Mockups & High-Fidelity Prototype**
+After usability testing, several key adjustments were made based on user feedback:
 
-Based on usability studies, several changes were made:
-- Added multiple ticket payment options.
-- Included billing information for payments.
+1. **Payment Plans:** Users requested the ability to pay for multiple tickets at once, which was added for convenience.
+2. **Billing Section:** A billing section was added to the payment page for easier checkout.
+3. **Court Scheduling:** Added a warning for non-compliant payment plans and an option to cancel court dates.
 
-![Mockups Before and After](link-to-image.png)
+---
 
-View the high-fidelity mockup [here](https://www.figma.com/proto/0V8SdGkJP7hdwHhMcZfKcA/Ticket-App).
+## High-Fidelity Mockup
+
+The final mockup incorporates all usability feedback and ensures a smooth, intuitive experience for users managing their traffic citations. You can view the high-fidelity mockup [here](https://www.figma.com/proto/0V8SdGkJP7hdwHhMcZfKcA/Ticket-App).
+
+![Mockup Example](link-to-image.png)
 
 ---
 
 ## Accessibility Features
 
-1. **Large Touch Targets:** For users with motor impairments.
-2. **High Color Contrast:** Improves readability for visually impaired users.
-3. **Clear Language:** Simple instructions for users with cognitive disabilities.
+**1. Large Touch Targets:** Buttons and interactive elements are designed to be easy to tap for users with motor impairments.  
+**2. High Color Contrast:** Ensures text is legible for users with visual impairments.  
+**3. Clear, Simple Language:** Instructions are straightforward for users with cognitive disabilities.
 
 ---
 
-## Takeaways & Next Steps
+## Key Takeaways
 
-**Impact:** The high-fidelity mockup provided a clear vision of how Ticket Ease could simplify ticket management. A study participant said, "The app’s straightforward navigation makes it easy to find, pay, and schedule court dates."
+**Impact:** The Ticket Ease mockup streamlines the ticket resolution process, helping users avoid legal issues by providing easy access to payment and court scheduling options.  
 
-**Lessons Learned:**
-- The importance of user feedback in creating intuitive designs.
-- Balancing functionality with accessibility.
+**What I Learned:**  
+- User research is critical in identifying real-world pain points.
+- Iterative design ensures the app addresses accessibility and usability needs.
+- Simplicity in design improves overall user experience, especially for tasks like managing traffic citations.
 
-**Next Steps:**
-- Continue usability testing.
-- Add more accessibility features (e.g., voice commands).
-- Expand options for accessing traffic ticket information.
+---
+
+## Next Steps
+
+1. **Usability Testing:** Conduct further testing to fine-tune the app’s design.
+2. **Accessibility Enhancements:** Explore additional features like voice commands and screen reader compatibility.
+3. **Expanded Information:** Add guides and FAQs to assist users in understanding traffic ticket laws and procedures.
