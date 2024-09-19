@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 # Case Study for Ticket Ease App
-![hero image](ticketeasecover.png)
+![hero image](\images\ticketeasecover.png)
 
 ---
 
