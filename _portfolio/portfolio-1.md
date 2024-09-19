@@ -44,7 +44,7 @@ I created personas to represent typical users. For example, **David Hernandez**,
 #### **Paper Wireframes**
 Initial paper sketches helped outline basic user flows and identify key interactions, such as searching for a ticket or scheduling a court date.
 
-![Paper Wireframe Example](\images\ticketappwireframe.jpg)
+![Paper Wireframe Example](\images\ticketappwireframes.jpg)
 
 #### **Digital Wireframes**
 I transitioned to digital wireframes to refine the app's layout and features. The focus was on making the ticket search simple and providing clear options for users to pay or schedule a court date.
