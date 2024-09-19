@@ -9,23 +9,6 @@ collection: portfolio
 
 ---
 
-## Overview
-
-**Ticket Ease** is a high-fidelity mockup for an app designed to simplify paying traffic citations. The app helps users manage tickets by providing features for ticket search, court appearances, and payment plans—all with a focus on accessibility and ease of use.
-
-### **Purpose**  
-This mockup was created to address common challenges people face when trying to pay or dispute traffic citations, such as finding their tickets, scheduling court dates, and setting up payment plans.
-
----
-
-## Project Details
-
-**Project Duration:** 1 month  
-**My Role:** UX Designer  
-**Main Goal:** Design a mockup that simplifies the traffic ticket resolution process through a user-friendly interface and features like remote court appearances and flexible payment plans.
-
----
-
 ## Problem Statement
 
 Many individuals, especially those with suspended licenses or financial struggles, have difficulty navigating the systems for managing traffic citations. Common issues include:
@@ -38,6 +21,14 @@ These hurdles often result in increased penalties, missed court dates, and ongoi
 
 ---
 
+## Project Details
+
+**Project Duration:** 1 month  
+**My Role:** UX Designer  
+**Main Goal:** Design a mockup that simplifies the traffic ticket resolution process through a user-friendly interface and features like remote court appearances and flexible payment plans.
+
+---
+
 ## The Design Process
 
 ### 1. **User Research**
@@ -45,6 +36,8 @@ To understand users' pain points, I conducted interviews and surveys, focusing o
 
 ### 2. **Persona Development**
 I created personas to represent typical users. For example, **David Hernandez**, a college student with a suspended license, needs affordable solutions and clear guidance to resolve his tickets and get his license reinstated.
+
+![Persona](\images\persona.png)
 
 ### 3. **Wireframing & Prototyping**
 
