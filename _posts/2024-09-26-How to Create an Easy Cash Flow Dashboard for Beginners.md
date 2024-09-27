@@ -46,6 +46,8 @@ The data was structured monthly, allowing us to track cash flow over the year. T
 
 ![Cash Flow Dashboard for Beginners](/images/Rawdata%20.png)
 
+
+
 ---
 
 ### Pivot Tables—The Real Heroes
@@ -56,13 +58,19 @@ One of the most powerful tools for a beginner in data analysis is the pivot tabl
 
 ![Cash Flow Dashboard for Beginners](/images/revenue%20pivot.png)
 
+
+
 2. **Expense Pivot Table**: I broke down the company’s monthly spending. Were they investing more in marketing? Spending too much on admin? This table had all the answers.
 
 ![Cash Flow Dashboard for Beginners](/images/expense%20pivot.png)
 
+
+
 3. **Cash Flow Pivot Table**: I subtracted the expenses from the revenue for each month, calculating whether the company was profitable or losing money at any given time.
 
 ![Cash Flow Dashboard for Beginners](/images/cashflowpivot.png)
+
+
 
 ---
 
@@ -74,13 +82,19 @@ After organizing the data, the next step was to create charts. Charts are essent
 
 ![Cash Flow Dashboard for Beginners](/images/uglylinechart.png)
 
+
+
 - **Revenue Stacked Bar Chart**: Stacked the revenue streams (subscriptions, consulting, one-time purchases) by month, making it easy to see what was bringing in money and when.
 
 ![Cash Flow Dashboard for Beginners](/images/uglyrevenuebar.png)
 
+
+
 - **Expense Stacked Bar Chart**: Similar to the revenue chart but for expenses (marketing, operations, R&D, admin), quickly showing where the company was spending the most.
 
 ![Cash Flow Dashboard for Beginners](/images/uglyexpensebar.png)
+
+
 
 ---
 
@@ -92,17 +106,25 @@ With the data and charts ready, it was time to assemble the full cash flow dashb
 
 ![Cash Flow Dashboard for Beginners](/images/addingheading.png)
 
+
+
 2. **Key Metrics**: Displayed key financial metrics like total revenue, total expenses, and overall cash flow, which updated automatically as the data changed.
 
 ![Cash Flow Dashboard for Beginners](/images/addingkeymetrics.png)
+
+
 
 3. **Cash Flow Line Chart**: Positioned below the key metrics, giving a quick overview of cash flow fluctuations over the year.
 
 ![Cash Flow Dashboard for Beginners](/images/addlinechart.png)
 
+
+
 4. **Revenue and Expense Breakdown**: Placed two bar charts side-by-side for revenue and expenses, broken down by category for easy trend spotting.
 
 ![Cash Flow Dashboard for Beginners](/images/assembleddash.png)
+
+
 
 ---
 
@@ -116,9 +138,10 @@ A great dashboard is not just about the data; it's about making the data easy to
 ![Cash Flow Dashboard for Beginners](/images/finisheddash.png)
 
 
-<div style="width: 100%; max-width: 100%; overflow: hidden;">
-  <iframe src="https://docs.google.com/spreadsheets/d/19EILZCsCKMwONwD2q7Y3KuCZBQvdiWsMODPphOrDHLQ/pubhtml?widget=true&amp;headers=false" width="100%" height="600" style="border: none; overflow-x: auto;"></iframe>
-</div>
+You can view the full cash flow dashboard by clicking the link below:
+
+[Cash Flow Dashboard Spreadsheet](https://docs.google.com/spreadsheets/d/19EILZCsCKMwONwD2q7Y3KuCZBQvdiWsMODPphOrDHLQ/pubhtml)
+
 
 
 
