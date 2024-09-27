@@ -115,6 +115,10 @@ A great dashboard is not just about the data; it's about making the data easy to
 
 ![Cash Flow Dashboard for Beginners](/images/finisheddash.png)
 
+
+<iframe src="https://docs.google.com/spreadsheets/d/19EILZCsCKMwONwD2q7Y3KuCZBQvdiWsMODPphOrDHLQ/pubhtml?widget=true&amp;headers=false" width="100%" height="600"></iframe>
+
+
 ---
 
 ### What the Dashboard Taught Me
