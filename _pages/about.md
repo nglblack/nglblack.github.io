@@ -6,40 +6,38 @@ redirect_from:
   - /about/
   - /about.html
 ---
+# Empowering Small Business Owners with Data-Driven Insights
 
-1. Hero Section (First impression matters)
-Headline: A strong, concise statement that encapsulates what you offer. For example:
-“Crafting Digital Experiences for Influencers and Creatives”
-Subtext: Briefly mention your key skills and target audience:
-“Specializing in custom, luxury websites for influencers, photographers, and creatives using Showit.”
-Call-to-action (CTA): Add a button leading to your portfolio or services:
-“Explore My Work” or “Let’s Create Something Amazing”
+## Learn how to make smarter decisions with easy-to-use tools and actionable dashboards.
 
-2. Portfolio Preview Section
-Feature a few highlighted projects from your portfolio, with clickable images that lead to full case studies or gallery pages.
-Brief descriptions like:
-“Luxury Website Design for Social Media Influencers”
-“UX Design for Creative Entrepreneurs”
-Use large visuals or mockups to showcase your best work upfront.
+---
 
-3. About Me Section
-A short paragraph about your background and values:
-“With a passion for elegant design and seamless user experiences, I bring creative visions to life for influencers and creators. I have certificates in Google UX Design and specialize in Showit development, ensuring that my clients get a website that’s not only beautiful but easy to manage.”
-Add a link to your CV here, labeled “View My CV” or “See My Experience.”
+### Welcome to Angie Web Studio
 
-4. Services Section
-Highlight your core services clearly:
-“Custom Website Design”
-“Branding & Visual Identity”
-“UX Strategy & Design Consultation”
-Include a CTA like “Learn More” that links to your services page.
+Running a business is hard enough without having to sift through complex data tools. Here, I make it simple for small business owners like you to understand and use your data to drive growth. No advanced degrees, no complicated software—just practical, beginner-friendly advice and tools.
 
-5. Blog Section
-Feature your latest blog posts with titles, images, and a short excerpt. Example categories might include:
-“Web Design Tips for Creators”
-“How to Build Your Personal Brand Online”
-Include a link to “View All Posts.”
+Explore case studies from real businesses, read blog posts packed with tips, and start making better decisions today.
 
-6. Testimonials or Client Feedback
-If applicable, include a few testimonials or quotes from past clients:
-“Angie delivered a stunning website that perfectly captured my brand. I couldn’t be happier!”
+---
+
+### What You’ll Find Here
+
+- **Step-by-Step Guides:** Learn how to build dashboards using free tools like Google Sheets.
+- **Practical Templates:** Ready-to-use dashboards designed for sales, marketing, inventory, and more.
+- **In-Depth Case Studies:** See how businesses just like yours are using data to grow.
+
+---
+
+### Why It Matters
+
+Data doesn’t have to be overwhelming. With the right tools, you can easily track your business performance, spot trends, and make informed decisions. Whether you're looking to improve your sales, streamline operations, or understand customer behavior, I've got you covered.
+
+---
+
+### Start Your Data Journey Today!
+
+Check out my latest blog post or dive into one of my case studies to see how you can start using data to your advantage.
+
+[Blog Link] [Case Study Link]
+
+
