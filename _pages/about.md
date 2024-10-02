@@ -1,12 +1,11 @@
 ---
 permalink: /
-title: "Data-Driven UX Strategy and Analytics for Small Business Growth"
+title: "Empowering Small Business Owners with Data-Driven Insights"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Empowering Small Business Owners with Data-Driven Insights
 
 ## Learn how to make smarter decisions with easy-to-use tools and actionable dashboards.
 
