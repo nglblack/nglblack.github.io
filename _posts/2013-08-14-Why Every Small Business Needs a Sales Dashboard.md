@@ -69,14 +69,7 @@ You don’t need complicated software to build an effective sales dashboard. Goo
   
 - **Customizable:** Your sales dashboard should reflect what matters most to your business. Google Sheets allows you to create custom charts, graphs, and summaries that focus on your unique sales data and business needs.
 
-## Steps to Create a Simple Sales Dashboard in Google Sheets
-<img src="/images/progress.jpg" alt="tracking growth" style="width:300px;" />
-Creating your own sales dashboard in Google Sheets is a breeze. Here’s a quick guide to get you started:
-
-1. **Set Up Your Sheet:** Open Google Sheets and label your columns with key metrics like “Date,” “Product Sold,” “Amount Sold,” and “Total Revenue.”
-2. **Enter Your Sales Data:** Manually input your sales data, or if you have an online store, export your sales data and paste it into your sheet.
-3. **Create Formulas:** Use simple formulas to calculate totals or averages. For instance, use `=SUM` to add up your total revenue or sales for the month.
-4. **Visualize with Charts:** Create charts and graphs in Google Sheets to visualize your sales trends. Pie charts can show you which products are most popular, while line charts can track your revenue growth over time.
+---
 
 ## Conclusion
 Having a sales dashboard is essential for every small business and entrepreneur looking to grow and thrive. By using Google Sheets, you can create a customized, easy-to-use sales dashboard without spending a dime. Tracking your sales data allows you to make smarter, data-driven decisions, save time, and better understand your customers. So don’t wait—start building your own sales dashboard today and watch your business grow!
