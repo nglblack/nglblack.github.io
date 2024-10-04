@@ -31,41 +31,23 @@ Let’s face it, running a small business means juggling a lot of different task
 A sales dashboard is a visual representation of your business’s key sales metrics. Think of it as your business’s control center, where you can see everything from your total sales to which products are top sellers—all in one place. Whether you run an online store, offer services, or sell products in a local shop, a sales dashboard helps small business owners make sense of their sales data without diving into complicated spreadsheets.
 
 ## Why Every Small Business Owner Needs a Sales Dashboard
+<img src="/images/datadecisions.jpg" alt="making data-driven decisions" style="width:300px;" />
 Here are a few reasons why a sales dashboard is crucial for entrepreneurs and small business owners:
 - **Make Data-Driven Decisions:** No more guessing games. With a sales dashboard, you’ll be able to see exactly which products or services are driving revenue, allowing you to make data-informed decisions about what to promote, restock, or retire.
 
- <img src="/images/datadecisions.jpg" alt="making data-driven decisions" style="width:150px;" />
-
-
----
-
 - **Track Sales Performance:** A dashboard provides real-time insights into how well your business is doing. Want to know if you’re hitting your monthly revenue target? Your sales dashboard can tell you at a glance, helping you stay on track with your goals.
-
-<img src="/images/performance.jpg" alt="tracking sales performance" style="width:150px;" />
-
----
 
 - **Understand Customer Behavior:** Knowing what your customers are buying—and when—helps you understand their preferences. This insight allows you to better meet their needs and optimize your inventory or services to boost customer satisfaction and sales.
 
-<img src="/images/behavior.jpg" alt="understanding customer behavior" style="width:150px;" />
-
-
----
-
 - **Save Time:** Instead of compiling sales reports manually or crunching numbers every month, your sales dashboard in Google Sheets does it for you. This means you can spend more time focusing on growing your business and less time on administrative tasks.
 
-<img src="/images/time.jpg" alt="saving time with data" style="width:200px;" />
-
----
-
 - **Track Progress and Growth:** Whether you’re a solo entrepreneur or a small business looking to scale, a sales dashboard shows you your growth over time. You can compare monthly or yearly performance to see how your business is evolving.
-
-<img src="/images/progress.jpg" alt="tracking growth" style="width:200px;" />
-
 
 ---
 
 ## How Data Can Help Small Businesses and Entrepreneurs Make Better Decisions
+<img src="/images/performance.jpg" alt="tracking sales performance" style="width:300px;" />
+
 Using a sales dashboard helps you track important metrics like revenue, sales trends, and top-selling products. Here’s why small business owners should pay attention to their data:
 
 - **Spot Sales Trends:** Data can reveal trends, like which days or times of the month are your busiest. This insight can help you time promotions, stock up on inventory, and offer discounts when your customers are most active.
@@ -75,6 +57,8 @@ Using a sales dashboard helps you track important metrics like revenue, sales tr
 - **Forecast Future Sales:** By looking at past sales data, you can estimate how much you’ll sell in the future. This helps with inventory management and ensures you’re always ready to meet customer demand without overstocking or running out of popular items.
 
 ## Why Google Sheets is the Best Tool for Your Sales Dashboard
+<img src="/images/behavior.jpg" alt="understanding customer behavior" style="width:150px;" />
+
 You don’t need complicated software to build an effective sales dashboard. Google Sheets offers a free, simple, and effective solution for small businesses and entrepreneurs. Here’s why it’s a great tool for creating your sales dashboard:
 
 - **It’s Free:** Unlike some paid tools, Google Sheets is completely free to use. For small businesses, keeping costs low is important, and with Google Sheets, you won’t need to invest in expensive software.
@@ -86,6 +70,7 @@ You don’t need complicated software to build an effective sales dashboard. Goo
 - **Customizable:** Your sales dashboard should reflect what matters most to your business. Google Sheets allows you to create custom charts, graphs, and summaries that focus on your unique sales data and business needs.
 
 ## Steps to Create a Simple Sales Dashboard in Google Sheets
+<img src="/images/progress.jpg" alt="tracking growth" style="width:300px;" />
 Creating your own sales dashboard in Google Sheets is a breeze. Here’s a quick guide to get you started:
 
 1. **Set Up Your Sheet:** Open Google Sheets and label your columns with key metrics like “Date,” “Product Sold,” “Amount Sold,” and “Total Revenue.”
