@@ -20,6 +20,10 @@ tags:
   - Improve Small Business Sales
 ---
 <img src="/images/dashboardgraph.jpg" alt="Small business needs dashboard" style="width:500px;" />
+
+---
+Discover why every small business needs a sales dashboard! Learn how tracking key sales metrics can help you make data-driven decisions, improve cash flow, and save time—all with a free, easy-to-use tool like Google Sheets. Start growing your business with smarter insights today!
+
 ## Introduction
 Let’s face it, running a small business means juggling a lot of different tasks—marketing, customer service, inventory, and of course, sales! But have you ever stopped to think about how you’re keeping track of all that hard-earned money coming in? Enter the sales dashboard: your small business’s secret weapon for staying on top of your finances and making smarter decisions. And guess what? You don’t need to be a data wizard or spend a fortune on fancy tools. Google Sheets can do the job for free!
 
