@@ -34,7 +34,7 @@ A sales dashboard is a visual representation of your business’s key sales metr
 Here are a few reasons why a sales dashboard is crucial for entrepreneurs and small business owners:
 - **Make Data-Driven Decisions:** No more guessing games. With a sales dashboard, you’ll be able to see exactly which products or services are driving revenue, allowing you to make data-informed decisions about what to promote, restock, or retire.
 
-<img src="/images/datadecisions.jpg" alt="making data-driven decisions" style="width:150px;" />
+<img src="/images/datadecisions.jpg" alt="making data-driven decisions" style="width:150px; float:right;" />
 
 
 ---
@@ -47,7 +47,7 @@ Here are a few reasons why a sales dashboard is crucial for entrepreneurs and sm
 
 - **Understand Customer Behavior:** Knowing what your customers are buying—and when—helps you understand their preferences. This insight allows you to better meet their needs and optimize your inventory or services to boost customer satisfaction and sales.
 
-<img src="/images/behavior.jpg" alt="understanding customer behavior" style="width:150px;" />
+<img src="/images/behavior.jpg" alt="understanding customer behavior" style="width:150px; float:right;" />
 
 
 ---
@@ -60,7 +60,7 @@ Here are a few reasons why a sales dashboard is crucial for entrepreneurs and sm
 
 - **Track Progress and Growth:** Whether you’re a solo entrepreneur or a small business looking to scale, a sales dashboard shows you your growth over time. You can compare monthly or yearly performance to see how your business is evolving.
 
-<img src="/images/progress.jpg" alt="tracking growth" style="width:200px;" />
+<img src="/images/progress.jpg" alt="tracking growth" style="width:200px; float:right;" />
 
 
 ---
