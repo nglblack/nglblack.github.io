@@ -35,19 +35,18 @@ Here are a few reasons why a sales dashboard is crucial for entrepreneurs and sm
 
 - **Make Data-Driven Decisions:** No more guessing games. With a sales dashboard, you’ll be able to see exactly which products or services are driving revenue, allowing you to make data-informed decisions about what to promote, restock, or retire.
 <img src="/images/datadecisions.jpg" alt="making data driven decisions" style="width:200px;" />
-  
 
 - **Track Sales Performance:** A dashboard provides real-time insights into how well your business is doing. Want to know if you’re hitting your monthly revenue target? Your sales dashboard can tell you at a glance, helping you stay on track with your goals.
 <img src="/images/performance.jpg" alt="tracking sales performance" style="width:200px;" />
 
 - **Understand Customer Behavior:** Knowing what your customers are buying—and when—helps you understand their preferences. This insight allows you to better meet their needs and optimize your inventory or services to boost customer satisfaction and sales.
-<img src="/images/behavior.jpg alt=" alt="tracking customer behavior" style="width:200px;" />
+<img src="/images/behavior.jpg" alt="understanding customer behavior" style="width:200px;" />
 
 - **Save Time:** Instead of compiling sales reports manually or crunching numbers every month, your sales dashboard in Google Sheets does it for you. This means you can spend more time focusing on growing your business and less time on administrative tasks.
 <img src="/images/time.jpg" alt="saving time with data" style="width:200px;" />
 
 - **Track Progress and Growth:** Whether you’re a solo entrepreneur or a small business looking to scale, a sales dashboard shows you your growth over time. You can compare monthly or yearly performance to see how your business is evolving.
-<img src="/images/progress.jpg" alt="saving time with data" style="width:200px;" />
+<img src="/images/progress.jpg" alt="tracking growth" style="width:200px;" />
 
 ## How Data Can Help Small Businesses and Entrepreneurs Make Better Decisions
 Using a sales dashboard helps you track important metrics like revenue, sales trends, and top-selling products. Here’s why small business owners should pay attention to their data:
