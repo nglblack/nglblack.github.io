@@ -19,7 +19,7 @@ tags:
   - Google Sheets for Sales Tracking
   - Improve Small Business Sales
 ---
-
+<img src="/images/dashboardgraph.jpg" alt="Small business needs dashboard" style="width:500px;" />
 ## Introduction
 Let’s face it, running a small business means juggling a lot of different tasks—marketing, customer service, inventory, and of course, sales! But have you ever stopped to think about how you’re keeping track of all that hard-earned money coming in? Enter the sales dashboard: your small business’s secret weapon for staying on top of your finances and making smarter decisions. And guess what? You don’t need to be a data wizard or spend a fortune on fancy tools. Google Sheets can do the job for free!
 
