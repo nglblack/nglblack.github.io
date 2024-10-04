@@ -41,7 +41,7 @@ Here are a few reasons why a sales dashboard is crucial for entrepreneurs and sm
 
 - **Track Sales Performance:** A dashboard provides real-time insights into how well your business is doing. Want to know if you’re hitting your monthly revenue target? Your sales dashboard can tell you at a glance, helping you stay on track with your goals.
 
-<img src="/images/performance.jpg" alt="tracking sales performance" style="width:150px;" />
+<img src="/images/performance.jpg" alt="tracking sales performance" style="width:200px;" />
 
 ---
 
@@ -54,13 +54,13 @@ Here are a few reasons why a sales dashboard is crucial for entrepreneurs and sm
 
 - **Save Time:** Instead of compiling sales reports manually or crunching numbers every month, your sales dashboard in Google Sheets does it for you. This means you can spend more time focusing on growing your business and less time on administrative tasks.
 
-<img src="/images/time.jpg" alt="saving time with data" style="width:150px;" />
+<img src="/images/time.jpg" alt="saving time with data" style="width:200px;" />
 
 ---
 
 - **Track Progress and Growth:** Whether you’re a solo entrepreneur or a small business looking to scale, a sales dashboard shows you your growth over time. You can compare monthly or yearly performance to see how your business is evolving.
 
-<img src="/images/progress.jpg" alt="tracking growth" style="width:150px;" />
+<img src="/images/progress.jpg" alt="tracking growth" style="width:200px;" />
 
 
 ---
