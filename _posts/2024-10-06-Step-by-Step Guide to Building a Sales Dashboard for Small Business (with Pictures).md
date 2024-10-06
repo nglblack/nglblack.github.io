@@ -1,6 +1,6 @@
 ---
 title: 'Step-by-Step Guide to Building a Sales Dashboard for Small Business (with Pictures)'
-date: 2014-08-14
+date: 2024-10-06
 permalink: /posts/2024/10/Step-by-Step Guide to Building a Sales Dashboard for Small Business (with Pictures)/
 tags:
   - Sales dashboard tutorial
