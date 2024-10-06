@@ -39,8 +39,8 @@ structured data is key to building an effective dashboard.
 **Pro Tip:** If you\'re using a POS system, you can usually export your
 data directly, making it easy to plug into Google Sheets.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image11.png){width="6.5in"
-height="4.805555555555555in"}
+<img src="/images/blogpost/image11.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+
 ---
 
 ### Create a Dashboard Title
@@ -60,8 +60,8 @@ To create the title:
 This helps ensure that your dashboard is visually appealing and easy to
 understand at a glance.
 
-> ![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image20.png){width="6.5in"
-> height="2.236111111111111in"}
+<img src="/images/blogpost/image20.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+
 ---
 
 ### **Add Key Performance Indicators (KPIs)**
@@ -95,19 +95,17 @@ worry---this is easier than it sounds!
 pivot table, you can toggle this setting by going to the pivot table
 editor, selecting \"Rows,\" and enabling the **Show Totals** option.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image13.png){width="3.067828083989501in"
-height="4.526042213473316in"}
+<img src="/images/blogpost/image13.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image4.png){width="4.869792213473316in"
-height="5.351107830271216in"}
+<img src="/images/blogpost/image4.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
 Now, you have a monthly summary of your total revenue! To add this to
 your dashboard, click on an empty cell in your dashboard, type = and
 navigate to the grand total in your pivot table, click that, go back to
 the dashboard, Press Enter, and the total revenue will now appear.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image9.png){width="6.161458880139983in"
-height="2.1229385389326336in"}
+<img src="/images/blogpost/image9.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+
 ---
 
 ### **Total Units Sold**
@@ -122,11 +120,9 @@ Now, the grand total of units sold will appear at the bottom of the
 table. Copy it to your dashboard using the same method as before by
 typing **=** and selecting the grand total cell in the pivot table.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image5.png){width="2.3125896762904636in"
-height="3.1728729221347334in"}
+<img src="/images/blogpost/image5.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image1.png){width="5.567708880139983in"
-height="2.8195450568678915in"}
+<img src="/images/blogpost/image1.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 ---
 
 ### **Top-Selling Product**
@@ -143,11 +139,9 @@ This formula will return the name of your top-selling product. Copy the
 result to your dashboard the same way you did for total revenue and
 units sold.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image17.png){width="5.34275043744532in"
-height="3.384411636045494in"}
+<img src="/images/blogpost/image17.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image2.png){width="4.098958880139983in"
-height="1.8678794838145232in"}
+<img src="/images/blogpost/image2.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 ---
 
 ### **Visualize Your Data with Charts**
@@ -169,11 +163,10 @@ To see how your sales fluctuate month to month:
 This will create a line chart showing your monthly sales trends. Copy
 the chart and paste it into your dashboard.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image8.png){width="4.790178258967629in"
-height="5.588542213473316in"}
+<img src="/images/blogpost/image8.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image10.png){width="6.5in"
-height="4.194444444444445in"}
+<img src="/images/blogpost/image10.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+
 ---
 
 ### **Bar Chart for Units Sold**
@@ -189,11 +182,10 @@ were sold:
 
 Copy and paste the chart into your dashboard.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image19.png){width="3.856984908136483in"
-height="3.4114588801399823in"}
+<img src="/images/blogpost/image19.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image7.png){width="6.5in"
-height="4.319444444444445in"}
+<img src="/images/blogpost/image7.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+
 ---
 
 ### **Bar Chart for Average Price per Unit**
@@ -208,16 +200,14 @@ To calculate and visualize the average price per unit:
 You can also adjust the number of decimal points for better readability.
 After that, insert a bar chart and copy it to your dashboard.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image12.png){width="2.249588801399825in"
-height="3.1775437445319334in"}
+<img src="/images/blogpost/image12.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image15.png){width="4.203240376202975in"
-height="4.149178696412949in"}
+<img src="/images/blogpost/image15.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
 Again copy and paste this into your dashboard.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image16.png){width="4.268448162729658in"
-height="3.494792213473316in"}
+<img src="/images/blogpost/image16.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+
 ---
 
 ### **Pie Chart for Revenue by Product Category**
@@ -232,14 +222,11 @@ different product categories:
 Copy the pie chart to your dashboard for a quick overview of how each
 category contributes to your overall revenue.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image6.png){width="5.3125in"
-height="4.65625in"}
+<img src="/images/blogpost/image6.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image21.png){width="3.8593755468066493in"
-height="3.6552734033245846in"}
+<img src="/images/blogpost/image21.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image22.png){width="4.154970472440945in"
-height="4.470982064741907in"}
+<img src="/images/blogpost/image22.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
 ---
 
@@ -278,8 +265,7 @@ you'll use for your heat map.
 This will turn your pivot table into a heat map, allowing you to easily
 spot peak sales periods and seasonal trends.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image18.png){width="6.5in"
-height="3.861111111111111in"}
+<img src="/images/blogpost/image18.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
 ---
 
@@ -290,8 +276,7 @@ height="3.861111111111111in"}
 Now, your heat map is part of your dashboard, helping you visualize and
 understand seasonal sales trends at a glance.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image3.png){width="6.5in"
-height="5.625in"}
+<img src="/images/blogpost/image3.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
 
 ---
 
@@ -452,5 +437,4 @@ it answers:
 This dashboard is a powerful tool that allows you to make data-driven
 decisions and optimize your business strategy for growth.
 
-![](vertopal_79a182dc51b044f6b8bdda20ec3c61a5/media/image14.png){width="4.0527449693788276in"
-height="3.7864588801399823in"}
+<img src="/images/blogpost/image14.png" alt="Final Dashboard" style="width:500px;" />
