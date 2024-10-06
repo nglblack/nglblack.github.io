@@ -23,6 +23,7 @@ sales dashboard using Google Sheets, perfect for beginners. We\'ll use a
 fictional skincare brand, **Pure Glow Skincare**, to walk through the
 steps---whether you\'re working with real or mock data, this guide will
 help you easily track and visualize your business\'s performance.
+
 ---
 
 **Gather and Organize Your Sales Data**
@@ -41,8 +42,8 @@ tracking. Your data should include:
 
 -   **Revenue**
 
-Organize this data in Google Sheets with clear headers like \"Date,\"
-\"Product Name,\" \"Units Sold,\" \"Revenue,\" and more. Having clean,
+Organize this data in Google Sheets with clear headers like **Date**,
+**Product Name,** **Units Sold,** **evenue,** and more. Having clean,
 structured data is key to building an effective dashboard.
 
 **Pro Tip:** If you\'re using a POS system, you can usually export your
@@ -55,8 +56,7 @@ data directly, making it easy to plug into Google Sheets.
 ### Create a Dashboard Title
 
 Every dashboard needs a clear title so you and your team can easily
-identify its purpose. For this example, we're using "Annual Sales
-Performance Dashboard."
+identify its purpose. For this example, we're using **Annual Sales Performance Dashboard.**
 
 To create the title:
 
