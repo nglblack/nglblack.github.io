@@ -1,7 +1,7 @@
 ---
-title: 'Step-by-Step Guide to Building a Sales Dashboard for Small Business (with Pictures)'
+title: 'Beginner Guide to Building a Sales Dashboard for Small Business (with Pictures)'
 date: 2024-10-06
-permalink: /posts/2024/10/Step-by-Step Guide to Building a Sales Dashboard for Small Business (with Pictures)/
+permalink: /posts/2024/10/Beginner Guide to Building a Sales Dashboard for Small Business (with Pictures)/
 tags:
   - Sales dashboard tutorial
   - Build a sales dashboard
