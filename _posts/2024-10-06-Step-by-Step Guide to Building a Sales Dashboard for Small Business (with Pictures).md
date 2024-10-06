@@ -3,10 +3,19 @@ title: 'Step-by-Step Guide to Building a Sales Dashboard for Small Business (wit
 date: 2014-08-14
 permalink: /posts/2024/10/Step-by-Step Guide to Building a Sales Dashboard for Small Business (with Pictures)/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - Sales dashboard tutorial
+  - Build a sales dashboard
+  - Small business sales dashboard
+  - Sales KPIs Google Sheets
+  - Create a sales report
+  - Google Sheets sales dashboard
+  - Business performance tracking
+  - How to track sales in Google Sheets
+  - Sales analytics for small business
+  - Data visualization Google Sheets
 ---
+<img src="/images/blogpost/image14.png" alt="Google Sheets sales dashboard example" style="width:500px;" />
+
 As a small business owner, managing everything from sales to customer
 service can feel overwhelming. But tracking your sales performance
 doesn't have to be! In this simple guide, I'll show you how to create a
@@ -39,7 +48,7 @@ structured data is key to building an effective dashboard.
 **Pro Tip:** If you\'re using a POS system, you can usually export your
 data directly, making it easy to plug into Google Sheets.
 
-<img src="/images/blogpost/image11.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image11.png" alt="raw data in spreadsheet" style="width:500px;" />
 
 ---
 
@@ -60,7 +69,7 @@ To create the title:
 This helps ensure that your dashboard is visually appealing and easy to
 understand at a glance.
 
-<img src="/images/blogpost/image20.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image20.png" alt="add heading to spreadsheet dashboard" style="width:500px;" />
 
 ---
 
@@ -95,16 +104,16 @@ worry---this is easier than it sounds!
 pivot table, you can toggle this setting by going to the pivot table
 editor, selecting \"Rows,\" and enabling the **Show Totals** option.
 
-<img src="/images/blogpost/image13.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image13.png" alt="Creating a sales dashboard with pivot tables" style="width:300px;" />
 
-<img src="/images/blogpost/image4.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image4.png" alt="dashboard updated" style="width:500px;" />
 
 Now, you have a monthly summary of your total revenue! To add this to
-your dashboard, click on an empty cell in your dashboard, type = and
+your dashboard, click on an empty cell in your dashboard, type **=** and
 navigate to the grand total in your pivot table, click that, go back to
 the dashboard, Press Enter, and the total revenue will now appear.
 
-<img src="/images/blogpost/image9.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image9.png" alt="add kpi to dashboard" style="width:500px;" />
 
 ---
 
@@ -120,9 +129,9 @@ Now, the grand total of units sold will appear at the bottom of the
 table. Copy it to your dashboard using the same method as before by
 typing **=** and selecting the grand total cell in the pivot table.
 
-<img src="/images/blogpost/image5.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image5.png" alt="Creating a sales dashboard with pivot tables" style="width:300px;" />
 
-<img src="/images/blogpost/image1.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image1.png" alt="add to dashboard" style="width:500px;" />
 ---
 
 ### **Top-Selling Product**
@@ -139,9 +148,9 @@ This formula will return the name of your top-selling product. Copy the
 result to your dashboard the same way you did for total revenue and
 units sold.
 
-<img src="/images/blogpost/image17.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image17.png" alt="Creating a sales dashboard with pivot tables" style="width:500px;" />
 
-<img src="/images/blogpost/image2.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image2.png" alt="add to dashboard" style="width:500px;" />
 ---
 
 ### **Visualize Your Data with Charts**
@@ -163,9 +172,9 @@ To see how your sales fluctuate month to month:
 This will create a line chart showing your monthly sales trends. Copy
 the chart and paste it into your dashboard.
 
-<img src="/images/blogpost/image8.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image8.png" alt="Line chart for sales trends in Google Sheets" style="width:500px;" />
 
-<img src="/images/blogpost/image10.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image10.png" alt="add line chart to dashboard" style="width:500px;" />
 
 ---
 
@@ -182,9 +191,9 @@ were sold:
 
 Copy and paste the chart into your dashboard.
 
-<img src="/images/blogpost/image19.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image19.png" alt="another pivot table" style="width:500px;" />
 
-<img src="/images/blogpost/image7.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image7.png" alt="add to dashboard" style="width:500px;" />
 
 ---
 
@@ -200,13 +209,13 @@ To calculate and visualize the average price per unit:
 You can also adjust the number of decimal points for better readability.
 After that, insert a bar chart and copy it to your dashboard.
 
-<img src="/images/blogpost/image12.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image12.png" alt="another pivot table" style="width:300px;" />
 
-<img src="/images/blogpost/image15.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image15.png" alt="add to dashboard" style="width:500px;" />
 
 Again copy and paste this into your dashboard.
 
-<img src="/images/blogpost/image16.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image16.png" alt="dashboard updated" style="width:500px;" />
 
 ---
 
@@ -222,11 +231,11 @@ different product categories:
 Copy the pie chart to your dashboard for a quick overview of how each
 category contributes to your overall revenue.
 
-<img src="/images/blogpost/image6.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image6.png" alt="another pivot table" style="width:500px;" />
 
-<img src="/images/blogpost/image21.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image21.png" alt="pie chart" style="width:500px;" />
 
-<img src="/images/blogpost/image22.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image22.png" alt="add to dashboard" style="width:500px;" />
 
 ---
 
@@ -265,7 +274,7 @@ you'll use for your heat map.
 This will turn your pivot table into a heat map, allowing you to easily
 spot peak sales periods and seasonal trends.
 
-<img src="/images/blogpost/image18.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image18.png" alt="Heat map for sales trends in Google Sheets" style="width:500px;" />
 
 ---
 
@@ -276,7 +285,7 @@ spot peak sales periods and seasonal trends.
 Now, your heat map is part of your dashboard, helping you visualize and
 understand seasonal sales trends at a glance.
 
-<img src="/images/blogpost/image3.png" alt="Cash Flow Dashboard for Beginners" style="width:500px;" />
+<img src="/images/blogpost/image3.png" alt="dahsboard put together" style="width:500px;" />
 
 ---
 
