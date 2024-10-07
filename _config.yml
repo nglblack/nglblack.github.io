@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "angiewebstudiox400.png"
+  avatar           : "newangiewebstudiox400.png"
   name             : "Angela Black"
   pronouns         : # example: "she/her"  
   bio              : "UX designer and data analyst helping small businesses use simple, user-friendly dashboards to track performance and grow."
