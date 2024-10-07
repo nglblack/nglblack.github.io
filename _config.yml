@@ -229,15 +229,21 @@ collections:
   teaching:
     output: false
     permalink: /:collection/:path/
+    layout: default
+    sitemap: false
   publications:
     output: false
     permalink: /:collection/:path/
+    layout: default
+    sitemap: false
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
     output: false
     permalink: /:collection/:path/
+    layout: default
+    sitemap: false
 
 
 # These settings control how pages and collections are included in the site
@@ -321,7 +327,7 @@ plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-paginate
-  # - jekyll-sitemap
+  - jekyll-sitemap
   - jemoji
 
 # Mimic GitHub Pages with --safe
