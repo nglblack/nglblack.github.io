@@ -184,6 +184,10 @@ exclude:
   - vendor
   - talkmap.html   # Add this
   - talkmap/map.html   # Add this
+  - _talks        # Exclude talks collection
+  - _publications # Exclude publications collection
+  - _teaching     # Exclude teaching collection
+
 
 keep_files:
   - .git
@@ -257,6 +261,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap: false
+      robots: noindex
   # _publications
   - scope:
       path: ""
@@ -266,6 +272,8 @@ defaults:
       author_profile: true
       share: true
       comments: true
+      sitemap: false
+      robots: noindex
   # _portfolio
   - scope:
       path: ""
@@ -283,6 +291,8 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      sitemap: false
+      robots: noindex
 
 
 # Sass/SCSS
