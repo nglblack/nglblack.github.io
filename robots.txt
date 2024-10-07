@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /cv/  # Blocks the CV page from being crawled
+Allow: /
+
+Sitemap: https://angiewebstudio.com/sitemap.xml  # Ensure your sitemap URL is correct
