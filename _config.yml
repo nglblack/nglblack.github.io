@@ -182,6 +182,9 @@ exclude:
   - README
   - tmp
   - vendor
+  - talkmap.html   # Add this
+  - talkmap/map.html   # Add this
+
 keep_files:
   - .git
   - .svn
