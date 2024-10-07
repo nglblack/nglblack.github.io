@@ -188,7 +188,6 @@ exclude:
   - _publications # Exclude publications collection
   - _teaching     # Exclude teaching collection
   - talkmap.html
-  - _talks
   - files/paper1.pdf
   - files/paper2.pdf
   - files/paper3.pdf
@@ -228,16 +227,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
