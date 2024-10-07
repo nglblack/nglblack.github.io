@@ -26,8 +26,9 @@ Data doesn’t have to be intimidating. With the right approach, you can easily 
 
 ---
 
-## Start Your Data-Driven Journey Today!
+[Read the Blog][blog] [Explore Case Studies][case-studies]
 
-Dive into my latest blog post or explore one of my case studies to see how easy it is to get started with data-driven growth.
+---
 
-[Read the Blog](/posts/) [Explore Case Studies](/portfolio/)
+[blog]: https://angiewebstudio.com/year-archive/
+[case-studies]: https://angiewebstudio.com/portfolio/
