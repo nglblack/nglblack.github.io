@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Angie Web Stuido"
 title_separator          : "-"
-name                     : &name "Angela Black"
+name                     : &name "Angie B"
 description              : &description "personal description"
 URL                      : "https://angiewebstudio.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
