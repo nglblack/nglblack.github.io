@@ -30,4 +30,4 @@ Data doesn’t have to be intimidating. With the right approach, you can easily 
 
 Dive into my latest blog post or explore one of my case studies to see how easy it is to get started with data-driven growth.
 
-[Read the Blog](/_posts/) [Explore Case Studies](/_portfolio/)
+[Read the Blog](/posts/) [Explore Case Studies](/portfolio/)
