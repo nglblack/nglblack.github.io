@@ -187,6 +187,19 @@ exclude:
   - _talks        # Exclude talks collection
   - _publications # Exclude publications collection
   - _teaching     # Exclude teaching collection
+  - talkmap.html
+  - _talks
+  - _teaching
+  - terms.html
+  - year-archive.html
+  - markdown_generator.html
+  - files/paper1.pdf
+  - files/paper2.pdf
+  - files/paper3.pdf
+  - files/slides1.pdf
+  - files/slides2.pdf
+  - files/slides3.pdf
+
 
 
 keep_files:
