@@ -2,4 +2,7 @@ User-agent: *
 Disallow: /cv/  # Blocks the CV page from being crawled
 Allow: /
 
+Disallow: /talkmap.html
+Disallow: /talkmap/map.html
+
 Sitemap: https://angiewebstudio.com/sitemap.xml  # Ensure your sitemap URL is correct
