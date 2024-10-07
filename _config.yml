@@ -187,7 +187,6 @@ exclude:
   - _talks        # Exclude talks collection
   - _publications # Exclude publications collection
   - _teaching     # Exclude teaching collection
-  - talkmap.html
   - files/paper1.pdf
   - files/paper2.pdf
   - files/paper3.pdf
@@ -230,12 +229,10 @@ collections:
     output: false
     permalink: /:collection/:path/
     layout: default
-    sitemap: false
   publications:
     output: false
     permalink: /:collection/:path/
     layout: default
-    sitemap: false
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -243,7 +240,6 @@ collections:
     output: false
     permalink: /:collection/:path/
     layout: default
-    sitemap: false
 
 
 # These settings control how pages and collections are included in the site
