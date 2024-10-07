@@ -1,5 +1,5 @@
 ---
-permalink: /Home/
+permalink: /
 title: "Data Insights Made Easy for Small Business Owners"
 author_profile: true
 redirect_from: 
