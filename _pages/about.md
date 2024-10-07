@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-## Learn how to make smarter decisions with easy-to-use tools and actionable dashboards.
-
----
-
 ### Welcome to Angie Web Studio
 
 Running a business is hard enough without having to sift through complex data tools. Here, I make it simple for small business owners like you to understand and use your data to drive growth. No advanced degrees, no complicated software—just practical, beginner-friendly advice and tools.
