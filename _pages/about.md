@@ -1,38 +1,33 @@
 ---
-permalink: /
-title: "Empowering Small Business Owners with Data-Driven Insights"
+permalink: /Home/
+title: "Data Insights Made Easy for Small Business Owners"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-### Welcome to Angie Web Studio
-
-Running a business is hard enough without having to sift through complex data tools. Here, I make it simple for small business owners like you to understand and use your data to drive growth. No advanced degrees, no complicated software—just practical, beginner-friendly advice and tools.
-
-Explore case studies from real businesses, read blog posts packed with tips, and start making better decisions today.
+**Welcome to Angie Web Studio**  
+Running a small business is challenging, but using data to grow shouldn’t be. At Angie Web Studio, I make it easy for business owners like you to harness the power of data—no advanced degrees or expensive software required. Just simple, practical tools and expert guidance to help you make better business decisions.
 
 ---
 
-### What You’ll Find Here
+## What You’ll Discover:
 
-- **Step-by-Step Guides:** Learn how to build dashboards using free tools like Google Sheets.
-- **Practical Templates:** Ready-to-use dashboards designed for sales, marketing, inventory, and more.
-- **In-Depth Case Studies:** See how businesses just like yours are using data to grow.
-
----
-
-### Why It Matters
-
-Data doesn’t have to be overwhelming. With the right tools, you can easily track your business performance, spot trends, and make informed decisions. Whether you're looking to improve your sales, streamline operations, or understand customer behavior, I've got you covered.
+- **Step-by-Step Guides:** Learn how to build powerful dashboards using free, user-friendly tools like Google Sheets.
+- **Practical Templates:** Access ready-to-use dashboard templates designed for sales, marketing, inventory management, and more.
+- **In-Depth Case Studies:** Explore real-world examples of how small businesses like yours have leveraged data to drive growth.
 
 ---
 
-### Start Your Data Journey Today!
+## Why It Matters
 
-Check out my latest blog post or dive into one of my case studies to see how you can start using data to your advantage.
+Data doesn’t have to be intimidating. With the right approach, you can easily track your business performance, uncover trends, and make smarter decisions. Whether your goal is to increase sales, streamline operations, or better understand your customers, I’m here to guide you every step of the way.
 
-[Blog Link] [Case Study Link]
+---
 
+## Start Your Data-Driven Journey Today!
 
+Dive into my latest blog post or explore one of my case studies to see how easy it is to get started with data-driven growth.
+
+[Read the Blog](/_posts/) [Explore Case Studies](/_portfolio/)
