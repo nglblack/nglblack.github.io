@@ -10,7 +10,9 @@ redirect_from:
 <img src="/images/angiewebstudiohero.png" alt="Empower Your Business Decisions with Data">
 
 
-I'm Angie, and I know how overwhelming it can be to use data to make business decisions—especially when you’re running your own business. My mission is simple: to help small business owners like you understand and use your own data to make informed decisions that lead to better results and more profit.
+I'm Angie, and I’m here to help self-employed individuals and small business owners take the guesswork out of decision-making. With the right data, you can make confident, informed choices that drive growth and improve your bottom line—without the stress or uncertainty.
+
+---
 
 ## **What I Offer:**
 
