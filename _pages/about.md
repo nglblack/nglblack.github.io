@@ -10,51 +10,21 @@ redirect_from:
 <img src="/images/angiewebstudiohero.png" alt="Empower Your Business Decisions with Data">
 
 
-I'm Angie, and I’m here to help self-employed individuals and small business owners take the guesswork out of decision-making. With the right data, you can make confident, informed choices that drive growth and improve your bottom line—without the stress or uncertainty.
+I’m a data enthusiast with a passion for helping small business owners and self-employed individuals make smarter decisions using their own data. With years of experience working in data analysis, I’ve developed a knack for turning complex information into clear, actionable insights.
 
----
+### What I Do
+As a freelancer, I specialize in creating simple, user-friendly tools that allow small businesses to understand their numbers—whether it’s tracking sales, monitoring inventory, or analyzing customer behavior. My goal is to help others feel empowered by their data, making decision-making less stressful and more informed.
 
-## **What I Offer:**
+### My Approach
+I believe that data doesn’t have to be intimidating. My approach is to break it down into easy steps that anyone can follow, even without a technical background. I provide clear guidance, practical examples, and useful insights that business owners can apply right away.
 
-### **1. Blog Posts & How-To Videos**
+### Blog Posts & How-To Videos**
 Through my blog and video tutorials, I break down the basics of using data in your small business. Whether you're looking to track sales, manage inventory, or understand customer behavior, I provide simple, step-by-step guides that help you take control of your business decisions.
 
-### **2. Case Studies**
-I love sharing real-world examples of how small businesses like yours have transformed by using data to drive their decisions. These case studies give you insights into how data can take your business to the next level.
-
----
-
-## **Why Work with Me?**
-
-**Made for Beginners:**  
-I specialize in helping business owners who don’t have a background in data or analytics. No jargon, no confusion—just clear and actionable advice.
-
-**Empowerment Through Data:**  
-I believe in giving you the tools and knowledge to feel confident about the choices you’re making for your business. Data doesn’t have to be complicated—it just needs to be used in the right way.
-
-**Tailored for Your Small Business:**  
+### Tailored for Your Small Business:**  
 Whether you're running an e-commerce store or a local shop, I help you understand your numbers. Together, we’ll uncover the insights hidden in your data, so you can make decisions that really work for your business.
 
----
-
-## **How It Works**
-
-1. **Explore My Free Content**  
-   Start by reading my blog or watching one of my beginner-friendly videos to learn how to begin using data in your business.
-
-2. **Apply What You Learn**  
-   Follow my step-by-step guides to start applying data-driven techniques in your business right away.
-
----
-
-## **Client Success Stories**
-
-> “Angie’s advice completely changed the way I manage my business. I now make decisions based on real data, and it’s been a game changer for my store!”  
-— Jane, Boutique Owner
-
----
-
-## **Get Started Today!**
+## Get Started Today!**
 
 It’s time to start using data to make better decisions for your business. Let me help you turn your data into growth.
 
