@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Data Insights Made Easy for Small Business Owners"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,8 @@ redirect_from:
 
 <img src="/images/angiewebstudiohero.png" alt="Empower Your Business Decisions with Data">
 
+* Data Insights Made Easy for Small Business Owners
 
-**Welcome to Angie Web Studio**  
 Running a small business is challenging, but using data to grow shouldn’t be. At Angie Web Studio, I make it easy for business owners like you to harness the power of data—no advanced degrees or expensive software required. Just simple, practical tools and expert guidance to help you make better business decisions.
 
 ---
