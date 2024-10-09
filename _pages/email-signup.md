@@ -2,15 +2,22 @@
 layout: default
 title: Email Signup
 permalink: /email-signup/
-sidebar:
-  - title: "Stay Connected"
-    text: "Follow us on social media for updates."
-  - title: "Check Out Our Blog"
-    text: "Read our latest posts to stay updated."
+author_profile: true
 ---
 
-<h1>Join Our Mailing List</h1>
-<p>Stay updated by subscribing to our email list. We'll send you updates straight to your inbox.</p>
+# Join Our Mailing List
+Stay updated by subscribing to our email list.
+
+<form
+  action="https://formspree.io/f/mrbgzvqp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email" placeholder="Enter your email" required>
+  </label>
+  <button type="submit">Subscribe</button>
+</form>
 
 <style>
   /* Custom styles for the email signup form */
@@ -44,13 +51,3 @@ sidebar:
   }
 </style>
 
-<form
-  action="https://formspree.io/f/mrbgzvqp"
-  method="POST"
->
-  <label>
-    Your email:
-    <input type="email" name="email" placeholder="Enter your email" required>
-  </label>
-  <button type="submit">Subscribe</button>
-</form>
