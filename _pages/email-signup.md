@@ -26,7 +26,8 @@ Stay updated by subscribing to our email list.
     padding: 20px;
     border-radius: 5px;
     max-width: 400px;
-    margin: 0 auto;
+    /* Remove centering */
+    margin: 0;  /* Remove 'auto' to stop centering */
   }
 
   input[type="email"] {
