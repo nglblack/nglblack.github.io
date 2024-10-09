@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: archive
 title: Email Signup
 permalink: /email-signup/
 author_profile: true
