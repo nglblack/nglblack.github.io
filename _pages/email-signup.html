@@ -4,9 +4,16 @@ title: Email Signup
 permalink: /email-signup/
 ---
 
-<h1>Subscribe to Our Email List</h1>
-<form action="https://docs.google.com/forms/d/e/1FAIpQLSc61wmh7GmRKzF5UdQeGNLIhnAuyW1q0caCaqLBY1BrWn0e0A/formResponse" method="POST" target="hidden_iframe" onsubmit="submitted=true;">
-  <input type="email" name="entry.your-field-id" placeholder="Enter your email" required>
-  <input type="submit" value="Subscribe">
+<h1>Join Our Mailing List</h1>
+<p>Stay updated by subscribing to our email list. We'll send you updates straight to your inbox.</p>
+
+<form
+  action="https://formspree.io/f/mrbgzvqp"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email" placeholder="Enter your email" required>
+  </label>
+  <button type="submit">Subscribe</button>
 </form>
-<iframe name="hidden_iframe" style="display:none;"></iframe>
