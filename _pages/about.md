@@ -21,7 +21,7 @@ I believe that data doesn’t have to be intimidating. My approach is to break i
 ### Blog Posts & How-To Videos**
 Through my blog and video tutorials, I break down the basics of using data in your small business. Whether you're looking to track sales, manage inventory, or understand customer behavior, I provide simple, step-by-step guides that help you take control of your business decisions.
 
-### Tailored for Your Small Business:**  
+### Tailored for Your Small Business: 
 Whether you're running an e-commerce store or a local shop, I help you understand your numbers. Together, we’ll uncover the insights hidden in your data, so you can make decisions that really work for your business.
 
 ## Get Started Today!**
