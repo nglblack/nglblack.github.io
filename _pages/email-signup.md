@@ -25,7 +25,7 @@ author_profile: true
       <input type="email" name="email" placeholder="Enter your email" required>
     </label>
     <button type="submit" style="margin-left: 10px;">Subscribe</button>
-    <p style="font-size: 0.7em; color: #6b705c; margin-left: 10px;">By clicking subscribe, you agree to receive our newsletter and other updates.</p>
+    <p style="font-size: 0.7em; color: #6b705c; margin-left: 10px;">Stay updated by subscribing to our email list</p>
   </form>
 </div>
 
