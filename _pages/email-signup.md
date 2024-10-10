@@ -23,14 +23,15 @@ author_profile: true
 
   <h2>Get Your Free Templates Now!</h2>
   <p>Stay updated by subscribing to our email list.</p>
+
+  <form action="https://formspree.io/f/mrbgzvqp" method="POST" style="background-color: #f4efe6; padding: 20px; border-radius: 5px; max-width: 100%; margin: 20px 0;">
+    <label>Your email:
+      <input type="email" name="email" placeholder="Enter your email" required>
+    </label>
+    <button type="submit">Subscribe</button>
+  </form>
 </div>
 
-<form action="https://formspree.io/f/mrbgzvqp" method="POST">
-  <label>Your email:
-    <input type="email" name="email" placeholder="Enter your email" required>
-  </label>
-  <button type="submit">Subscribe</button>
-</form>
 
 <style>
   /* Custom styles for the email signup form */
@@ -38,9 +39,8 @@ author_profile: true
     background-color: #f4efe6;
     padding: 20px;
     border-radius: 5px;
-    max-width: 400px;
-    /* Remove centering */
-    margin: 0;  /* Remove 'auto' to stop centering */
+    max-width: 100%;
+    margin: 20px 0;  /* Adding margin to separate the form from the card content */
   }
 
   input[type="email"] {
@@ -63,6 +63,7 @@ author_profile: true
   button:hover {
     background-color: #d4a373;
   }
+
   .card {
     background-color: #fff;
     border-radius: 10px;
@@ -78,7 +79,7 @@ author_profile: true
   }
 
   .card h2 {
-    color: #bc6c25;
+    color: #6b705c;
   }
 
   .card h3 {
@@ -88,5 +89,4 @@ author_profile: true
   .card p {
     color: #6b705c;
   }
-
-  $1
+</style>
