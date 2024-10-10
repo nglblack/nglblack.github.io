@@ -20,7 +20,7 @@ author_profile: true
     <li><strong style="color: #6b705c;">Customer Insights Template:</strong> Understand your best customers to improve your offerings.</li>
   </ul>
 
-  <form action="https://formspree.io/f/mrbgzvqp" method="POST" style="background-color: #f4efe6; padding: 20px; border-radius: 5px; max-width: 100%; margin: 20px 0; display: flex; align-items: center;">
+  <form action="https://formspree.io/f/mrbgzvqp" method="POST" style="background-color: #f4efe6; padding: 20px; border-radius: 5px; max-width: 100%; margin: 20px 0; display: grid; grid-template-columns: 1fr auto auto; align-items: center; gap: 10px;">
     <label><strong>Get Your Free Templates Now!</strong>
       <input type="email" name="email" placeholder="Enter your email" required>
     </label>
