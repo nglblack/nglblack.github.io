@@ -24,10 +24,8 @@ author_profile: true
     <label><strong>Get Your Free Templates Now!</strong>
       <input type="email" name="email" placeholder="Enter your email" required>
     </label>
-    <div style="margin-top: 10px;">
-      <button type="submit">Subscribe</button>
-      <p style="font-size: 0.7em; color: #6b705c; display: inline; margin-left: 10px;">Stay updated by subscribing to our email list</p>
-    </div>
+    <button type="submit">Subscribe</button>
+    <p style="font-size: 0.7em; color: #6b705c; margin-top: 10px;">Stay updated by subscribing to our email list</p>
   </form>
 </div>
 
@@ -40,8 +38,6 @@ author_profile: true
     border-radius: 5px;
     max-width: 100%;
     margin: 20px 0;  /* Adding margin to separate the form from the card content */
-    display: flex;
-    align-items: center;
   }
 
   input[type="email"] {
@@ -59,7 +55,6 @@ author_profile: true
     border: none;
     border-radius: 3px;
     cursor: pointer;
-    margin-left: 10px;
   }
 
   button:hover {
