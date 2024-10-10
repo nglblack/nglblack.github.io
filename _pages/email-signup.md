@@ -5,22 +5,25 @@ permalink: /email-signup/
 author_profile: true
 ---
 
-<h1>Sign Up and Grab Your Free Google Sheets Template for Data-Driven Decisions!</h1>
-<p>Are you a small business owner or self-employed professional looking for the right tools to help you make data-driven decisions easily? At Angie Web Studio, I'm all about making data simple and helping you make better business decisions based on your data. I'd love to share a free Google Sheets template designed to help you get started on your data-driven journey!</p>
+<h1>Sign Up and Get Your Free Google Sheets Templates!</h1>
+<p>Are you a small business owner looking for easy tools to make data-driven decisions? At Angie Web Studio, I make data simple for better business decisions. Grab a free Google Sheets template to get started!</p>
 
 <h2>Here's What You'll Receive:</h2>
-<p>This free Google Sheets template is perfect for beginners—no data experience needed! It will help you save time, reduce stress, and empower you to make data-driven decisions that will take your business to the next level.</p>
+<p>This beginner-friendly template will save you time, reduce stress, and help you make confident decisions.</p>
 
 <h3>Inventory Management Template:</h3>
-<p>A simple tool to help you track your inventory, make data-driven decisions about restocking, and stay organized.</p>
+<p>Track inventory, restock efficiently, and stay organized.</p>
 
 <h3>Cash Flow Tracker:</h3>
-<p>Track your cash flow to understand your financial health and make informed, data-driven decisions for your business.</p>
+<p>Monitor cash flow to make informed financial decisions.</p>
 
 <h3>Customer Insights Template:</h3>
-<p>Collect and analyze customer data to understand who your best customers are and make decisions to improve your offerings.</p>
+<p>Understand your best customers to improve your offerings.</p>
 
 <h2>Join Our Mailing List</h2>
+<p>Stay updated by subscribing to our email list.</p>
+
+<h2>Get Your Free Templates Now!</h2>
 <p>Stay updated by subscribing to our email list.</p>
 
 <form action="https://formspree.io/f/mrbgzvqp" method="POST">
