@@ -20,15 +20,12 @@ author_profile: true
     <li><strong style="color: #6b705c;">Customer Insights Template:</strong> Understand your best customers to improve your offerings.</li>
   </ul>
 
-  <h2>Get Your Free Templates Now!</h2>
-  <p>Stay updated by subscribing to our email list.</p>
-
   <form action="https://formspree.io/f/mrbgzvqp" method="POST" style="background-color: #f4efe6; padding: 20px; border-radius: 5px; max-width: 100%; margin: 20px 0;">
-    <label><strong>Your email:</strong>
+    <label><strong>Get Your Free Templates Now!</strong>
       <input type="email" name="email" placeholder="Enter your email" required>
     </label>
     <button type="submit">Subscribe</button>
-    <p style="font-size: 0.9em; color: #6b705c; margin-top: 10px;">By clicking subscribe, you agree to receive our newsletter and other updates.</p>
+    <p style="font-size: 0.7em; color: #6b705c; margin-top: 10px;">Stay updated by subscribing to our email list</p>
   </form>
 </div>
 
