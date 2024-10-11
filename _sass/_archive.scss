@@ -44,11 +44,21 @@
   }
   
   .archive__item-title {
-    margin-bottom: 0.25em;
+    margin-bottom: 0.5em;
     font-family: $sans-serif-narrow;
+    font-size: 1.5rem; /* Adjusted font size */
+    color: #6b705c; /* Muted olive brand color */
+    font-weight: bold; /* Make the title bold */
+    letter-spacing: 0.5px; /* Add some letter spacing */
+    text-transform: uppercase; /* Transform text to uppercase */
   
-    a + a {
-      opacity: 0.5;
+    a {
+      text-decoration: none; /* Remove underline for links */
+    }
+  
+    a:hover {
+      text-decoration: underline; /* Add underline on hover */
+      color: darken(#6b705c, 10%); /* Darken the color on hover */
     }
   }
   
