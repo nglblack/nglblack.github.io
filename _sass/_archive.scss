@@ -40,11 +40,21 @@
   }
   
   .archive__item-title {
-    margin-bottom: 0.25em;
+    margin-bottom: 0.5em;
     font-family: $sans-serif-narrow;
+    font-size: 1.75rem;
+    color: #bc6c25;
+    font-weight: bold;
+    letter-spacing: 1px;
+    text-transform: capitalize;
   
-    a + a {
-      opacity: 0.5;
+    a {
+      text-decoration: none;
+    }
+  
+    a:hover {
+      text-decoration: underline;
+      color: darken(#bc6c25, 10%);
     }
   }
   
@@ -67,10 +77,14 @@
   }
   
   .archive__item-teaser {
-    border-radius: $border-radius;
+    border-radius: 8px;
     overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
     img {
-      width: 100%;
+      width: 80%;
+      margin: 0 auto;
+      display: block;
     }
   }
   
