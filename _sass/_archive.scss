@@ -4,6 +4,10 @@
 
    .archive {
     margin-bottom: 2em;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
   
     @include breakpoint($medium) {
       @include span(12 of 12);
@@ -83,6 +87,15 @@
     padding: 20px;
     margin-bottom: 20px;
     transition: transform 0.2s ease-in-out;
+    width: calc(100% - 40px);
+  
+    @include breakpoint($medium) {
+      width: calc(50% - 40px);
+    }
+  
+    @include breakpoint($large) {
+      width: calc(33.333% - 40px);
+    }
   
     &:hover {
       transform: translateY(-5px);
