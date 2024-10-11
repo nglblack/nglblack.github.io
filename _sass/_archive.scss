@@ -1,5 +1,5 @@
-/* ==========================================================================
-   ARCHIVE
+/* ========================================================================== 
+   ARCHIVE 
    ========================================================================== */
 
    .archive {
@@ -74,6 +74,19 @@
     }
   }
   
+  .archive__item {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: transform 0.2s ease-in-out;
+  
+    &:hover {
+      transform: translateY(-5px);
+    }
+  }
+  
   .archive__item:hover {
     .archive__item-teaser {
       box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -83,7 +96,6 @@
       text-decoration: underline;
     }
   }
-  
   
   /*
      List view
@@ -106,7 +118,6 @@
       margin: 0 0 4px;
     }
   }
-  
   
   /*
      Grid view
@@ -150,7 +161,6 @@
       }
     }
   }
-  
   
   /*
      Features
@@ -243,4 +253,3 @@
       }
     }
   }
-  
