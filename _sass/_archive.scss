@@ -79,8 +79,9 @@
     }
   }
   
-  
+  /* Set default card width to 80% */
   .archive__item {
+    width: 80%;
     width: 60%;
     background-color: #fff;
     border-radius: 8px;
@@ -106,8 +107,12 @@
   
   .list__item {
     @include breakpoint($medium) {
-      padding-right: $right-sidebar-width-narrow;
+    padding-right: $right-sidebar-width-narrow;
+    /* Set card width to 60% for medium screens and above */
+    .archive__item {
+      width: 60%;
     }
+  }
   
     @include breakpoint($large) {
       padding-right: $right-sidebar-width;
@@ -119,6 +124,17 @@
   
     .page__meta {
       margin: 0 0 4px;
+    }
+  }
+  
+  @media (max-width: 768px) {
+    .list__item {
+      display: flex;
+      justify-content: center;
+      flex-wrap: wrap;
+      .archive__item {
+        width: 90%; /* Set card width to 90% for smaller screens */
+      }
     }
   }
   
