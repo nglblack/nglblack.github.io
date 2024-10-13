@@ -15,15 +15,8 @@
     }
   
     a {
-      text-decoration: underline;
-  
-      &:hover {
-        text-decoration: underline;
-  
-        img {
-          box-shadow: 0 0 10px rgba(#000, 0.25);
-        }
-      }
+      text-decoration: none;
+      color: inherit;
     }
   }
   
@@ -43,18 +36,14 @@
     margin-bottom: 0.5em;
     font-family: $sans-serif-narrow;
     font-size: 1.75rem;
-    color: #bc6c25;
+    color: inherit;
     font-weight: bold;
     letter-spacing: 1px;
     text-transform: capitalize;
   
     a {
       text-decoration: none;
-    }
-  
-    a:hover {
-      text-decoration: underline;
-      color: darken(#bc6c25, 10%);
+      color: inherit;
     }
   }
   
@@ -81,14 +70,18 @@
     overflow: hidden;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     margin-bottom: 20px;
+    width: 100%;
     img {
-      width: 80%;
-      margin: 0 auto;
+      width: 100%;
+      height: auto;
+      object-fit: cover;
       display: block;
     }
   }
   
+  
   .archive__item {
+    width: 60%;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
@@ -104,10 +97,6 @@
   .archive__item:hover {
     .archive__item-teaser {
       box-shadow: 0 0 10px rgba(#000, 0.25);
-    }
-  
-    .archive__item-title {
-      text-decoration: underline;
     }
   }
   
