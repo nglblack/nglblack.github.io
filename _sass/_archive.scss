@@ -64,24 +64,10 @@
       text-indent: 0;
     }
   }
-  
-  .archive__item-teaser {
-    border-radius: 8px;
-    overflow: hidden;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-bottom: 20px;
-    width: 100%;
-    img {
-      width: 100%;
-      height: auto;
-      object-fit: cover;
-      display: block;
-    }
-  }
+
   
   /* Set default card width to 80% */
   .archive__item {
-    width: 80%;
     background-color: #fff;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
