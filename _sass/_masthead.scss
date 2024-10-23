@@ -9,7 +9,8 @@
     border-bottom: 1px solid $border-color;
     height: $masthead-height;
     top: 0;
-    width: 100%;
+    width: 100vw; /* Ensure the masthead spans the entire viewport width */
+    left: 0;
   
     -webkit-animation: intro 0.3s both;
             animation: intro 0.3s both;

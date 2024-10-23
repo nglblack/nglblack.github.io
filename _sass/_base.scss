@@ -323,7 +323,7 @@
     align-items: flex-start; /* Align items to the top */
     gap: 20px; /* Add gap between sidebar and article */
     flex-wrap: wrap; /* Allow elements to wrap on smaller screens */
-    max-width: 1200px;
+    max-width: 1600px; /* Increased to provide more horizontal space */
     margin: 0 auto;
     padding: 20px;
     width: 100%; /* Ensure full width to distribute space correctly */
@@ -352,7 +352,7 @@
   }
   
   .archive {
-    flex: 3;
+    flex: 5; /* Increased to allocate more space */
     padding-left: 20px;
     padding-right: 20px;
     margin-bottom: 2em;
@@ -360,14 +360,13 @@
   
   @media (max-width: 768px) {
     #main {
-      flex-direction: column;
       align-items: center;
+      flex-direction: row; /* Modified to allow more horizontal space for children */
     }
   
     article.page,
     div.sidebar.sticky,
     .archive {
-      width: 100%;
       margin-right: 0;
     }
   
